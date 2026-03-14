@@ -1,0 +1,57 @@
+{
+    "company": "Tech Innovators Inc.",
+    "employees": [
+        {
+            "id": 1,
+            "name": "Alice Smith",
+            "role": "Software Engineer",
+            "skills": [
+                "Python",
+                "JavaScript",
+                "Machine Learning"
+            ],
+            "projects": [
+                {
+                    "name": "Project Alpha",
+                    "status": "Completed"
+                },
+                {
+                    "name": "Project Beta",
+                    "status": "In Progress"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Bob Johnson",
+            "role": "Data Scientist",
+            "skills": [
+                "R",
+                "SQL",
+                "Data Visualization"
+            ],
+            "projects": [
+                {
+                    "name": "Project Gamma",
+                    "status": "Completed"
+                },
+                {
+                    "name": "Project Delta",
+                    "status": "In Progress"
+                }
+            ]
+        }
+    ],
+    "departments": {
+        "Engineering": {
+            "head": "Alice Smith",
+            "budget": 500000,
+            "team_size": 25
+        },
+        "Data Science": {
+            "head": "Bob Johnson",
+            "budget": 300000,
+            "team_size": 15
+        }
+    }
+}
