@@ -21,3 +21,9 @@ matplotlib
 # Embedding models
 langchain-huggingface
 sentence-transformers
+
+# Hugging face pipeling own finding
+torch
+transformers
+accelerate
+sentencepiece
