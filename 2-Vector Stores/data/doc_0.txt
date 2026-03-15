@@ -1,0 +1,12 @@
+
+    Machine Learning Fundamentals
+
+    Machine learning is a subset of artificial intelligence that focuses on the development of algorithms that can learn from and make predictions on data. It involves training models on large datasets to recognize patterns and make informed decisions without being explicitly programmed for specific tasks.
+    The process of machine learning typically involves several key steps:
+    1. Data Collection: Gathering relevant data that will be used to train the machine learning
+    model. This data can come from various sources, such as databases, web scraping, or sensors.
+    2. Data Preprocessing: Cleaning and preparing the data for training. This may involve
+    handling missing values, encoding categorical variables, and normalizing numerical features.
+    3. Model Selection: Choosing an appropriate machine learning algorithm based on the
+    problem at hand (e.g., classification, regression, clustering).
+    4. Training: Feeding the preprocessed data into the selected model and allowing it to learn from the data by adjusting its parameters to minimize the error between predictions and actual outcomes.
