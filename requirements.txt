@@ -17,3 +17,7 @@ unstructured[docx]
 openpyxl
 msoffcrypto-tool
 jq
+matplotlib
+# Embedding models
+langchain-huggingface
+sentence-transformers
